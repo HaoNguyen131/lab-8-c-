@@ -1,0 +1,4 @@
+C:\Users\Lenovo\source\repos\Lab 8\Lab 8.2\obj\Debug\net8.0\Lab 8.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Lab 8\Lab 8.2\obj\Debug\net8.0\Lab 8.2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Lab 8\Lab 8.2\obj\Debug\net8.0\Lab 8.2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Lab 8\Lab 8.2\obj\Debug\net8.0\Lab 8.2.csproj.CoreCompileInputs.cache
